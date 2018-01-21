@@ -1,3 +1,11 @@
+# Folders
+tf_logs/**
+data/**
+todo.txt
+models/**
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
